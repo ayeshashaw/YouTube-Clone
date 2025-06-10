@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository** (if applicable, otherwise ensure you have the project files):
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ayeshashaw/YouTube-Clone
     cd youtube-clone
     ```
 
